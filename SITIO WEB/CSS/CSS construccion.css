@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+color: #430A0B;
+
+text-align: center;
+}
+
+.subt{
+	text-align: center;
+	padding: 500px;
+	color: white;
+	
+}
+body{ 
+	background-image:url("../../../Documents/Sitio sin nombre 2/fondo.jpg")
+
+}
